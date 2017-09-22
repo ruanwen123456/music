@@ -1,0 +1,20 @@
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"~/Desktop/RHQQmusic/music/.git/COMMIT_EDITMSG" 189L, 15807C[2;1H# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#       new file:   .DS_Store
+#       new file:   高仿QQ音乐/...
+#       new file:   高仿QQ音乐/.DS_Store
+#       new file:   高仿QQ音乐/LICENSE
+#       new file:   高仿QQ音乐/RHQQmusic.xcodeproj/project.pbxproj
+#       new file:   高仿QQ音乐/RHQQmusic.xcodeproj/project.xcworkspace/contents..[15;1Hxcworkspacedata
+#       new file:   高仿QQ音乐/RHQQmusic/.DS_Store
+#       new file:   高仿QQ音乐/RHQQmusic/Assets.xcassets/AppIcon.appiconset/AppII[18;1Hcon29x29@2x.png
+#       new file:   高仿QQ音乐/RHQQmusic/Assets.xcassets/AppIcon.appiconset/AppII[20;1Hcon29x29@3x.png
+#       new file:   高仿QQ音乐/RHQQmusic/Assets.xcassets/AppIcon.appiconset/AppII[22;1Hcon40x40@2x.png
+#       new file:   高仿QQ音乐/RHQQmusic/Assets.xcassets/AppIcon.appiconset/AppI[23;1H[94m@                                                                               [1;1H[?12l[?25h[24;1H[m[?1l>[?1049lVim: Error reading input, exiting...
+Vim: Finished.
+[24;1H
