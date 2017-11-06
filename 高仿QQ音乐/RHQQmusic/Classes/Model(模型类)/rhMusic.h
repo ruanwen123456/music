@@ -26,4 +26,5 @@
 
 /** 歌手大图 */
 @property (nonatomic, copy) NSString *icon;
+
 @end
